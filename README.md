@@ -4,7 +4,7 @@ Welcome to the Login Page and Registration App UI project! This project showcase
 
 ## Screenshots
 
-![Login Screen](https://github.com/saidjohn/Login_And_Registration_UI/blob/master/presentation/ui_screenshot.png)
+![Login Screen](https://github.com/diyorbekshokirov/Login_And_Registration_Ui/blob/main/presentation/ui_screenshot.png)
 
 
 ## Description
