@@ -29,7 +29,7 @@ The Login Page and Registration App UI project presents a concept design for a l
 
 To run the Login Page and Registration App UI project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/saidjohn/Login_And_Registration_UI.git`
+1. Clone the repository: `git clone diyorbekshokirov/Login_And_Registration_Ui.git`
 2. Open the project in your preferred IDE or code editor.
 3. Ensure you have Flutter SDK installed.
 4. Run `flutter pub get` to fetch the project dependencies.
@@ -48,8 +48,7 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
-- LinkedIn: [Saidjon Saidov](linkedin.com/in/saidjonsaidov)
-- Website: [saidjonsaidov.netlify.app](http://saidjonsaidov.netlify.app)
+- Email: [shokirovdiyorbek629@gmail.com](mailto:shokirovdiyorbek629@gmail.com)
+
 
 Thank you for checking out the Login Page and Registration App UI project!
